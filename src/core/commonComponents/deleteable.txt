@@ -1,0 +1,80 @@
+{
+  "event_name": "xcvx",
+  "event_description": "xcv",
+  "event_type": "Feature Film Festivals",
+  "year_running": "10",
+  "award_prizes": "fgn",
+  "event_organizer": [
+    {
+      "name": "dfgbdd",
+      "title": "fgdfg"
+    }
+  ],
+  "rule_terms": "dfgbdfgbvfd",
+  "address": "dfg",
+  "city": "dfgdfg",
+  "country": "Algeria",
+  "email": "dgfgfdg",
+  "phone": "789",
+  "postalCode": "dfgdf",
+  "state": "dfgfdgd",
+  "website": "dfg",
+  "addressSame": false,
+  "oaddress": "dfg",
+  "ocity": "dfgdfg",
+  "ostate": "dfgfdgd",
+  "opostalCode": "dfgdf",
+  "ocountry": "Algeria",
+  "facebook": "dfg",
+  "twitter": "",
+  "instagram": "",
+  "event_venue": [
+    {
+      "venue_name": "dfg",
+      "address": "dfgdfg",
+      "city": "dfgdfg",
+      "state": "dfgfdgd",
+      "postal_code": "dfgdf",
+      "country": "Algeria"
+    }
+  ],
+  "opening_date": "2023-01-10",
+  "entry_deadline": [
+    {
+      "deadline": "dfg",
+      "date": "2023-01-26"
+    }
+  ],
+  "notification_date": "2023-01-26",
+  "event_date_from": "2023-01-18",
+  "event_date_to": "2023-01-27",
+  "category": [
+    {
+      "name": "dfgdfgdf",
+      "description": "dfgdfg",
+      "deadline": [
+        {
+          "name": "dfg",
+          "standard_fee": "63",
+          "student_fees": "56",
+          "gold_fees": "8963",
+          "silver_fees": "8767"
+        }
+      ],
+      "projectType": "",
+      "runtime": "786786",
+      "haspassword": false,
+      "password": "",
+      "student_project": false,
+      "project_origin": ""
+    }
+  ],
+  "category_search": [
+    "Feature"
+  ],
+  "festival_focus": [
+    "Action / Adventure"
+  ],
+  "search_terms": [],
+  "listing_visibility": "Public"
+}
